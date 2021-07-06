@@ -1043,6 +1043,239 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 321003869}
   m_CullTransparentMesh: 1
+--- !u!1001 &325261762
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 460978006692210441, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: faucet
+      value: 
+      objectReference: {fileID: 325261766}
+    - target: {fileID: 460978006692210441, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: crossChainContractEndpoints.isExpanded
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 460978006692210441, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: crossChainContractEndpoints.reorderableList.isExpanded
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1321676535426299009, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: networkUrl
+      value: https://data-seed-prebsc-1-s1.binance.org:8545/
+      objectReference: {fileID: 0}
+    - target: {fileID: 1321676535426299009, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: contractAddress
+      value: 0xEaf4c92BC9Ef176cD29E5d888915A5e12662ea90
+      objectReference: {fileID: 0}
+    - target: {fileID: 1321676535426299009, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: gasWalletAddress
+      value: 0xa4B8198E42268cf870297c77174318F0C6A43913
+      objectReference: {fileID: 0}
+    - target: {fileID: 1321676535426299009, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: inputWalletAddress
+      value: 
+      objectReference: {fileID: 1429559330}
+    - target: {fileID: 1321676535426299009, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: networkExplorerUrl
+      value: https://testnet.bscscan.com/tx/
+      objectReference: {fileID: 0}
+    - target: {fileID: 1321676535426299009, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: gasWalletAddressPrivate
+      value: cdd4df549e0dda6ab7511c55cfa74f105791f1fd44fb6755a4a4349f034061c9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1321676535426299013, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: m_Name
+      value: Faucet
+      objectReference: {fileID: 0}
+    - target: {fileID: 1321676535426299015, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1321676535426299015, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1321676535426299015, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1321676535426299015, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1321676535426299015, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1321676535426299015, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1321676535426299015, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1321676535426299015, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1321676535426299015, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1321676535426299015, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1321676535426299015, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: onChainValidation
+      value: 
+      objectReference: {fileID: 325261764}
+    - target: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: offChainValidation
+      value: 
+      objectReference: {fileID: 325261763}
+    - target: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: walletAddressInputField
+      value: 
+      objectReference: {fileID: 1429559330}
+    - target: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: ValidStart.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: InvalidStart.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: ValidStart.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: ValidStart.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: ValidStart.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 502295723}
+    - target: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: ValidStart.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 142585429}
+    - target: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: InvalidStart.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 738759726}
+    - target: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: ValidStart.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: ValidStart.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: ValidStart.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SetActive
+      objectReference: {fileID: 0}
+    - target: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: ValidStart.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: SetActive
+      objectReference: {fileID: 0}
+    - target: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: InvalidStart.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: InvalidStart.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: NotReadyPrompt
+      objectReference: {fileID: 0}
+    - target: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: ValidStart.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: UnityEngine.GameObject, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: ValidStart.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: UnityEngine.GameObject, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: InvalidStart.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: WalletMenuPromptController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: ValidStart.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_BoolArgument
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: ValidStart.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: ValidStart.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: InvalidStart.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 4177480295765256176, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+      propertyPath: walletInputField
+      value: 
+      objectReference: {fileID: 1429559330}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+--- !u!114 &325261763 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4177480295765256176, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+  m_PrefabInstance: {fileID: 325261762}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2f5fc7ba6f4f4e5d9e2ea16c8815205, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &325261764 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 460978006692210441, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+  m_PrefabInstance: {fileID: 325261762}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ac118af9a6cf424ebc8717f6dd50800, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &325261765 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1973722155050643756, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+  m_PrefabInstance: {fileID: 325261762}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c95c115b492b48788e0f406fdb9ecde, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &325261766 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1321676535426299009, guid: 5fd7e56b2784f4d4f852f660498bfd54, type: 3}
+  m_PrefabInstance: {fileID: 325261762}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 885f6774c97f541328f3289eff6942cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &360445607
 GameObject:
   m_ObjectHideFlags: 0
@@ -2400,9 +2633,6 @@ GameObject:
   - component: {fileID: 708477822}
   - component: {fileID: 708477821}
   - component: {fileID: 708477820}
-  - component: {fileID: 708477824}
-  - component: {fileID: 708477823}
-  - component: {fileID: 708477825}
   m_Layer: 5
   m_Name: GoButton
   m_TagString: Untagged
@@ -2474,7 +2704,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 708477825}
+      - m_Target: {fileID: 325261765}
         m_TargetAssemblyTypeName: WalletValidationCoordinator, Assembly-CSharp
         m_MethodName: Validate
         m_Mode: 1
@@ -2524,116 +2754,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 708477818}
   m_CullTransparentMesh: 1
---- !u!114 &708477823
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 708477818}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5ac118af9a6cf424ebc8717f6dd50800, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  crossChainContractEndpoints:
-    reorderableList:
-      canAdd: 1
-      canRemove: 1
-      draggable: 1
-      expandable: 1
-      multipleSelection: 1
-      isExpanded: 1
-      label:
-        m_Text: Keys
-        m_Image: {fileID: 0}
-        m_Tooltip: 
-      headerHeight: 18
-      footerHeight: 13
-      slideEasing: 0.15
-      verticalSpacing: 2
-      showDefaultBackground: 1
-      elementDisplayType: 0
-      elementNameProperty: 
-      elementNameOverride: 
-      elementIcon: {fileID: 0}
-    reqReferences: {fileID: 0}
-    isExpanded: 1
-    _keyValues: []
-    _keys: []
-    _values: []
-  faucet: {fileID: 1863349324}
---- !u!114 &708477824
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 708477818}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2f5fc7ba6f4f4e5d9e2ea16c8815205, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walletInputField: {fileID: 1429559330}
---- !u!114 &708477825
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 708477818}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9c95c115b492b48788e0f406fdb9ecde, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  offChainValidation: {fileID: 708477824}
-  onChainValidation: {fileID: 708477823}
-  ValidStart:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 502295723}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 142585429}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
-        m_CallState: 2
-  InvalidStart:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 738759726}
-        m_TargetAssemblyTypeName: WalletMenuPromptController, Assembly-CSharp
-        m_MethodName: NotReadyPrompt
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-  walletAddressInputField: {fileID: 1429559330}
-  isValidatingCoroutine: 0
 --- !u!1 &714614267
 GameObject:
   m_ObjectHideFlags: 0
@@ -2725,7 +2845,7 @@ GameObject:
   - component: {fileID: 722556386}
   - component: {fileID: 722556385}
   m_Layer: 0
-  m_Name: Backdrop
+  m_Name: PersistentBackdrop
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5424,7 +5544,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1863349324}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: Faucet, Assembly-CSharp
         m_MethodName: LaunchEtherscan
         m_Mode: 1
@@ -6288,7 +6408,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 1863349324}
+      - m_Target: {fileID: 325261766}
         m_TargetAssemblyTypeName: Faucet, Assembly-CSharp
         m_MethodName: RequestGrant
         m_Mode: 1
@@ -6315,7 +6435,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 1863349324}
+      - m_Target: {fileID: 325261766}
         m_TargetAssemblyTypeName: Faucet, Assembly-CSharp
         m_MethodName: RequestZeroGrant
         m_Mode: 1
@@ -7370,7 +7490,6 @@ GameObject:
   - component: {fileID: 1863349322}
   - component: {fileID: 1863349321}
   - component: {fileID: 1863349323}
-  - component: {fileID: 1863349324}
   m_Layer: 0
   m_Name: GameStateSceneManager
   m_TagString: Untagged
@@ -7418,49 +7537,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   totalScore: 0
   currentScore: 0
-  faucet: {fileID: 1863349324}
---- !u!114 &1863349324
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1863349320}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 885f6774c97f541328f3289eff6942cb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  networkUrl: https://data-seed-prebsc-1-s1.binance.org:8545/
-  networkExplorerUrl: https://testnet.bscscan.com/tx/
-  contractAddress: 0xEaf4c92BC9Ef176cD29E5d888915A5e12662ea90
-  gasWalletAddress: 0xa4B8198E42268cf870297c77174318F0C6A43913
-  gasWalletAddressPrivate: cdd4df549e0dda6ab7511c55cfa74f105791f1fd44fb6755a4a4349f034061c9
-  grantTransactionHash: 
-  inputWalletAddress: {fileID: 1429559330}
-  grantRequestCurrentScore: 0
-  grantRequestTotalScore: 0
-  OnGetElapsedRate:
-    m_PersistentCalls:
-      m_Calls: []
-  OnGetElapsedTime:
-    m_PersistentCalls:
-      m_Calls: []
-  OnRequestGrant:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1376036930}
-        m_TargetAssemblyTypeName: UnityEngine.UI.Selectable, UnityEngine.UI
-        m_MethodName: set_interactable
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
-        m_CallState: 2
+  faucet: {fileID: 325261766}
 --- !u!1 &1887245351
 GameObject:
   m_ObjectHideFlags: 0
@@ -7991,11 +8068,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2349758734531431548, guid: 6a4d34d335c144397803743c9ff01ebe, type: 3}
       propertyPath: m_Name
-      value: Badger
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 4668242793116944142, guid: 6a4d34d335c144397803743c9ff01ebe, type: 3}
       propertyPath: hMagnitude
-      value: 3
+      value: 2.5
       objectReference: {fileID: 0}
     - target: {fileID: 6201904237817505005, guid: 6a4d34d335c144397803743c9ff01ebe, type: 3}
       propertyPath: OnOutsideBounds.m_PersistentCalls.m_Calls.Array.data[2].m_Mode
@@ -8012,7 +8089,7 @@ PrefabInstance:
     - target: {fileID: 6201904237817505005, guid: 6a4d34d335c144397803743c9ff01ebe, type: 3}
       propertyPath: OnOutsideBounds.m_PersistentCalls.m_Calls.Array.data[2].m_Target
       value: 
-      objectReference: {fileID: 1863349324}
+      objectReference: {fileID: 325261766}
     - target: {fileID: 6201904237817505005, guid: 6a4d34d335c144397803743c9ff01ebe, type: 3}
       propertyPath: OnOutsideBounds.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
       value: RequestZeroGrant
