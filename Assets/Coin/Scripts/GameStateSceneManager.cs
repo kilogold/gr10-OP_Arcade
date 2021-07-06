@@ -7,5 +7,7 @@ public class GameStateSceneManager : MonoBehaviour
     void Start()
     {
         DontDestroyOnLoad(gameObject);
+        // Make the game run as fast as possible
+        Application.targetFrameRate = 120;
     }
 }
