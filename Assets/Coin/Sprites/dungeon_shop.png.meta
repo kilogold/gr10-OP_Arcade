@@ -4,64 +4,64 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 2733840559900845875
-    second: spelunky_shop_0
+    second: dungeon_shop_0
   - first:
       213: 4098456380436290619
-    second: spelunky_shop_1
+    second: dungeon_shop_1
   - first:
       213: 4336116364626224277
-    second: spelunky_shop_2
+    second: dungeon_shop_2
   - first:
       213: 6282577261323883533
-    second: spelunky_shop_3
+    second: dungeon_shop_3
   - first:
       213: 8351918718314567431
-    second: spelunky_shop_4
+    second: dungeon_shop_4
   - first:
       213: -1801302017710626824
-    second: spelunky_shop_5
+    second: dungeon_shop_5
   - first:
       213: 8063580136415973710
-    second: spelunky_shop_6
+    second: dungeon_shop_6
   - first:
       213: 6756312949266112201
-    second: spelunky_shop_7
+    second: dungeon_shop_7
   - first:
       213: 8073862389218992737
-    second: spelunky_shop_8
+    second: dungeon_shop_8
   - first:
       213: 1383015614648644707
-    second: spelunky_shop_9
+    second: dungeon_shop_9
   - first:
       213: -6980324538477065648
-    second: spelunky_shop_10
+    second: dungeon_shop_10
   - first:
       213: 8726638904296359867
-    second: spelunky_shop_11
+    second: dungeon_shop_11
   - first:
       213: -6596567858233594239
-    second: spelunky_shop_12
+    second: dungeon_shop_12
   - first:
       213: 7718012962335145550
-    second: spelunky_shop_13
+    second: dungeon_shop_13
   - first:
       213: -8372723776784569013
-    second: spelunky_shop_14
+    second: dungeon_shop_14
   - first:
       213: -3347111552333769430
-    second: spelunky_shop_15
+    second: dungeon_shop_15
   - first:
       213: 1382836602555935616
-    second: spelunky_shop_16
+    second: dungeon_shop_16
   - first:
       213: -3833190889212615448
-    second: spelunky_shop_17
+    second: dungeon_shop_17
   - first:
       213: -9005979406999498270
-    second: spelunky_shop_18
+    second: dungeon_shop_18
   - first:
       213: -7562836978877418101
-    second: spelunky_shop_19
+    second: dungeon_shop_19
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -187,7 +187,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spelunky_shop_0
+      name: dungeon_shop_0
       rect:
         serializedVersion: 2
         x: 0
@@ -195,7 +195,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -208,7 +208,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spelunky_shop_1
+      name: dungeon_shop_1
       rect:
         serializedVersion: 2
         x: 16
@@ -216,7 +216,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -229,7 +229,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spelunky_shop_2
+      name: dungeon_shop_2
       rect:
         serializedVersion: 2
         x: 32
@@ -237,7 +237,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -250,7 +250,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spelunky_shop_3
+      name: dungeon_shop_3
       rect:
         serializedVersion: 2
         x: 48
@@ -258,7 +258,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -271,7 +271,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spelunky_shop_4
+      name: dungeon_shop_4
       rect:
         serializedVersion: 2
         x: 0
@@ -279,7 +279,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -292,7 +292,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spelunky_shop_5
+      name: dungeon_shop_5
       rect:
         serializedVersion: 2
         x: 16
@@ -300,7 +300,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -313,7 +313,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spelunky_shop_6
+      name: dungeon_shop_6
       rect:
         serializedVersion: 2
         x: 32
@@ -321,7 +321,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -334,7 +334,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spelunky_shop_7
+      name: dungeon_shop_7
       rect:
         serializedVersion: 2
         x: 48
@@ -342,7 +342,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -355,7 +355,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spelunky_shop_8
+      name: dungeon_shop_8
       rect:
         serializedVersion: 2
         x: 0
@@ -363,7 +363,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -376,7 +376,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spelunky_shop_9
+      name: dungeon_shop_9
       rect:
         serializedVersion: 2
         x: 16
@@ -384,7 +384,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -397,7 +397,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spelunky_shop_10
+      name: dungeon_shop_10
       rect:
         serializedVersion: 2
         x: 32
@@ -405,7 +405,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -418,7 +418,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spelunky_shop_11
+      name: dungeon_shop_11
       rect:
         serializedVersion: 2
         x: 48
@@ -426,7 +426,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -439,7 +439,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spelunky_shop_12
+      name: dungeon_shop_12
       rect:
         serializedVersion: 2
         x: 0
@@ -447,7 +447,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -460,7 +460,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spelunky_shop_13
+      name: dungeon_shop_13
       rect:
         serializedVersion: 2
         x: 16
@@ -468,7 +468,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -481,7 +481,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spelunky_shop_14
+      name: dungeon_shop_14
       rect:
         serializedVersion: 2
         x: 32
@@ -489,7 +489,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -502,7 +502,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spelunky_shop_15
+      name: dungeon_shop_15
       rect:
         serializedVersion: 2
         x: 48
@@ -510,7 +510,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -523,7 +523,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spelunky_shop_16
+      name: dungeon_shop_16
       rect:
         serializedVersion: 2
         x: 0
@@ -531,7 +531,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -544,7 +544,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spelunky_shop_17
+      name: dungeon_shop_17
       rect:
         serializedVersion: 2
         x: 16
@@ -552,7 +552,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -565,7 +565,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spelunky_shop_18
+      name: dungeon_shop_18
       rect:
         serializedVersion: 2
         x: 32
@@ -573,7 +573,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -586,7 +586,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spelunky_shop_19
+      name: dungeon_shop_19
       rect:
         serializedVersion: 2
         x: 48
@@ -594,7 +594,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
