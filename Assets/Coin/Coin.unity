@@ -8070,10 +8070,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
-    - target: {fileID: 4668242793116944142, guid: 6a4d34d335c144397803743c9ff01ebe, type: 3}
-      propertyPath: hMagnitude
-      value: 2.5
-      objectReference: {fileID: 0}
     - target: {fileID: 6201904237817505005, guid: 6a4d34d335c144397803743c9ff01ebe, type: 3}
       propertyPath: OnOutsideBounds.m_PersistentCalls.m_Calls.Array.data[2].m_Mode
       value: 1
@@ -8093,14 +8089,6 @@ PrefabInstance:
     - target: {fileID: 6201904237817505005, guid: 6a4d34d335c144397803743c9ff01ebe, type: 3}
       propertyPath: OnOutsideBounds.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
       value: RequestZeroGrant
-      objectReference: {fileID: 0}
-    - target: {fileID: 7046893821712241107, guid: 6a4d34d335c144397803743c9ff01ebe, type: 3}
-      propertyPath: m_Mass
-      value: 0.22
-      objectReference: {fileID: 0}
-    - target: {fileID: 7046893821712241107, guid: 6a4d34d335c144397803743c9ff01ebe, type: 3}
-      propertyPath: m_CollisionDetection
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6a4d34d335c144397803743c9ff01ebe, type: 3}

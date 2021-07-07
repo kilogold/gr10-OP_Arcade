@@ -28,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 98600742405298731}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.07, y: 1.07, z: 1.07}
+  m_LocalScale: {x: 1.1449001, y: 1.1449001, z: 1.1449001}
   m_Children: []
   m_Father: {fileID: 1528514973549678529}
   m_RootOrder: 0
@@ -167,7 +167,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b9537db2d9dd4e4ca608cc370880728, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hMagnitude: 0.35
+  hMagnitude: 2.5
   body: {fileID: 7046893821712241107}
 --- !u!50 &7046893821712241107
 Rigidbody2D:
@@ -181,7 +181,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 0.15
+  m_Mass: 0.22
   m_LinearDrag: 2
   m_AngularDrag: 0.05
   m_GravityScale: 1
@@ -398,6 +398,6 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0.09333803}
+  m_Offset: {x: 0, y: 0.11}
   m_Size: {x: 0.094599545, y: 0.18155256}
   m_Direction: 0
