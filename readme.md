@@ -1,5 +1,5 @@
 # Faucet Game
-This is a gamified faucet designed for OPGames during Gitcoin Round 10.
+This is a gamified faucet designed for OPGames during [Gitcoin Round 10](https://gitcoin.co/issue/alto-io/gr-10/3/100025936).
 
 ### Testnet Demo
 ![Gameplay](https://user-images.githubusercontent.com/1028926/124869560-3d267e80-df76-11eb-8797-feaba3af4d30.gif)
