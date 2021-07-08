@@ -13,13 +13,11 @@ public class WalletValidationCoordinator : MonoBehaviour
     [SerializeField] private UnityEvent ValidStart;
     [SerializeField] private UnityEvent<ValidationOutcome> InvalidStart; //TODO: Consider payload pattern. Gotta consider empty faucet.
     [SerializeField] private InputField walletAddressInputField;
-    private bool isValidatingCoroutine;
 
     private Coroutine validationCR = null;
     
     private void Awake()
     {
-        isValidatingCoroutine = false;
         onChainValidation.validationComplete += OnValidationCoroutineComplete;
     }
 

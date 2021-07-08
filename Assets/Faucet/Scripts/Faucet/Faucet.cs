@@ -65,7 +65,7 @@ public class Faucet : MonoBehaviour
         StartCoroutine(GetElapsedRateCR());
     }
 
-    public void LaunchEtherscan()
+    public void LaunchBlockchainExplorer()
     {
         string url = networkExplorerUrl + grantTransactionHash;
         Debug.Log("Opening URL: "+ url);
