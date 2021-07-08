@@ -5544,9 +5544,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 325261766}
         m_TargetAssemblyTypeName: Faucet, Assembly-CSharp
-        m_MethodName: LaunchEtherscan
+        m_MethodName: LaunchBlockchainExplorer
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -6908,7 +6908,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Check BSC Scan
+  m_text: View Transaction
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 43ebc38f85eb7470abdbe997c9024d7e, type: 2}
   m_sharedMaterial: {fileID: 5432155618849649365, guid: 43ebc38f85eb7470abdbe997c9024d7e, type: 2}
